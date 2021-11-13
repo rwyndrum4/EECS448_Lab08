@@ -1,0 +1,44 @@
+p
+{
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  color: #0051BA;
+  background-color: #E8000D;
+}
+p.links
+{
+  color: #0051BA;
+background-color: #FFC82D;
+}
+body {
+ background-image: url("jayhawk.jpeg");
+ background-color: #cccccc;
+}
+div.a
+{
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  color: #0051BA;
+  background-color: #E8000D;
+}
+div.b
+{
+  width: 200;
+  border: 2px solid black;
+  color: #0051BA;
+  background-color: #E8000D;
+}
+a
+{
+background-color: #E8000D;
+color: #0051BA;
+}
+a:hover
+{
+background-color: #0051BA;
+color: #E8000D;
+}
